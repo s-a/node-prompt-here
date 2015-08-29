@@ -2,8 +2,8 @@
 Open a console window at given absolute directory
 
 [![NPM Version](http://img.shields.io/npm/v/node-prompt-here.svg)](https://www.npmjs.org/package/node-prompt-here)
-[![Dependency Status](https://david-dm.org/s-a/node-prompt-here.svg)](https://david-dm.org/node-prompt-here/) 
-[![devDependency Status](https://david-dm.org/s-a/node-prompt-here/dev-status.svg)](https://david-dm.org/node-prompt-here/#info=devDependencies)  
+[![Dependency Status](https://david-dm.org/s-a/node-prompt-here.svg)](https://david-dm.org/s-a/node-prompt-here/) 
+[![devDependency Status](https://david-dm.org/s-a/node-prompt-here/dev-status.svg)](https://david-dm.org/s-a/node-prompt-here/#info=devDependencies)  
 
 ## Installation
 ```bash
