@@ -4,7 +4,8 @@
   "description": "Open a console window at given absolute directory",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bump": "npm version patch && git push && git push --tags && npm publish"
   },
   "repository": {
     "type": "git",
