@@ -1,8 +1,9 @@
 # Node Prompt Here
 Open a console window at given absolute directory
 
-[![Dependency Status](https://david-dm.org/node-prompt-here/sulu.svg)](https://david-dm.org/node-prompt-here/sulu) 
-[![devDependency Status](https://david-dm.org/node-prompt-here/sulu/dev-status.svg)](https://david-dm.org/node-prompt-here/sulu#info=devDependencies)  
+[![NPM Version](http://img.shields.io/npm/v/node-prompt-here.svg)](https://www.npmjs.org/package/node-prompt-here)
+[![Dependency Status](https://david-dm.org/s-a/node-prompt-here.svg)](https://david-dm.org/node-prompt-here/) 
+[![devDependency Status](https://david-dm.org/s-a/node-prompt-here/dev-status.svg)](https://david-dm.org/node-prompt-here/#info=devDependencies)  
 
 ## Installation
 ```bash
