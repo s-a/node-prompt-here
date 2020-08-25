@@ -6,6 +6,7 @@ var PromtHere = function() {
 
 PromtHere.prototype.open = function(dir) {
 	var cmd = null;
+	dir = dir.replace(/"|;|&|,|\|/gi, '')
 	switch(process.platform) {
 	    case "win32":
 	        cmd = 'start "' + dir + '" /D "' + dir + '"';
